@@ -1,0 +1,5 @@
+ls: lista de diretório da máquina
+cd: change directory (muda de diretório)
+mkdir: cria diretório
+rm-rf: remove diretório
+clear: limpa terminals
